@@ -1,0 +1,10 @@
+.vscode/*.json
+.vscode/launch.json
+.vscode/.alcache/*.*
+.snapshots/*.*
+*.app
+*.bak
+*.orig
+My/*.al
+.vscode/launch.json
+Translations/*.g.xlf

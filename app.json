@@ -1,0 +1,38 @@
+{
+  "id": "5c5a2503-efe0-4a41-bd31-d726f2e9c940",
+  "name": "Pimics - Shopware connector",
+  "publisher": "Allium",
+  "version": "1.0.1.0",
+  "runtime": "11.0",
+  "url": "https://www.pimics.com",
+  "privacyStatement": "https://www.pimics.com/Privacy-Policy",
+  "EULA": "https://docs.pimics.com/en-us/eula.md",
+  "help": "https://docs.pimics.com/",
+  "logo": "logo.png",
+  "dependencies": [
+    {
+      "id": "394dc561-0292-494f-93f0-4583392bd7e0",
+      "name": "Pimics PIM",
+      "publisher": "Allium",
+      "version": "8.2.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50300,
+      "to": 50349
+    }
+  ],
+  "applicationInsightsConnectionString": "InstrumentationKey=82d100e0-3e4e-46a5-be45-a5cdd610f687;IngestionEndpoint=https://germanywestcentral-1.in.applicationinsights.azure.com/;LiveEndpoint=https://germanywestcentral.livediagnostics.monitor.azure.com/",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "features": [
+    "NoImplicitWith"
+  ]
+}
